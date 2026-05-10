@@ -10,7 +10,6 @@ struct Node {
     Node* left;
     Node* right;
 
-    // Constructor para hojas (tienen letra)
     Node(char c, int freq) {
         character = c;
         frequency = freq;
@@ -18,7 +17,6 @@ struct Node {
         right = nullptr;
     }
 
-    // Constructor para nodos internos (combinan dos hijos)
     Node(int freq, Node* l, Node* r) {
         character = '\0';
         frequency = freq;
