@@ -1,0 +1,4 @@
+/Users/sebasroldangiraldo/Downloads/Ingeniería de Sistemas/CLion/Compresor-De-Archivos-Huffman/build/CMakeFiles/huffman_console.dir
+/Users/sebasroldangiraldo/Downloads/Ingeniería de Sistemas/CLion/Compresor-De-Archivos-Huffman/build/CMakeFiles/huffman_gui.dir
+/Users/sebasroldangiraldo/Downloads/Ingeniería de Sistemas/CLion/Compresor-De-Archivos-Huffman/build/CMakeFiles/edit_cache.dir
+/Users/sebasroldangiraldo/Downloads/Ingeniería de Sistemas/CLion/Compresor-De-Archivos-Huffman/build/CMakeFiles/rebuild_cache.dir
