@@ -1,0 +1,1 @@
+La codificacion de Huffman es un algoritmo de compresion sin perdida desarrollado por David Huffman en 1952. Es ampliamente utilizado en formatos como JPEG, MP3 y ZIP.

@@ -32,6 +32,7 @@ private:
 
     void generateCodes(Node* node, std::string code);
     void deleteTree(Node* node);
+    void printTreeHelper(Node* node, std::string prefix, bool isLeft) const;
 
 public:
     HuffmanTree();
@@ -42,6 +43,9 @@ public:
     const std::unordered_map<char, std::string>& getCodes() const;
     Node* getRoot() const;
     void clear();
+
+    void printTree() const;
+    void printCodes() const;
 };
 
 #endif
