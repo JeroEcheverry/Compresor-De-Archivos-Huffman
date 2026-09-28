@@ -1,4 +1,4 @@
-# 📦 Compresor de Archivos con Codificación Huffman
+# Compresor de Archivos con Codificación Huffman
 
 > Práctica 2 — Estructuras de Datos y Algoritmos  
 > Universidad EAFIT · Medellín · 2026
@@ -7,7 +7,7 @@ Implementación en **C++17** de un compresor y descompresor de archivos de texto
 
 ---
 
-## 👥 Integrantes
+## Integrantes
 
 | Nombre | GitHub |
 |--------|--------|
@@ -17,7 +17,7 @@ Implementación en **C++17** de un compresor y descompresor de archivos de texto
 
 ---
 
-## ✨ Funcionalidades
+## Funcionalidades
 
 - **Comprimir** un archivo `.txt` a formato binario `.huff`
 - **Descomprimir** un archivo `.huff` de vuelta al texto original (sin pérdida)
@@ -26,7 +26,7 @@ Implementación en **C++17** de un compresor y descompresor de archivos de texto
 
 ---
 
-## 🏗️ Arquitectura del Proyecto
+## Arquitectura del Proyecto
 
 ```
 huffman/
@@ -68,7 +68,7 @@ g++ -std=c++17 -O2 \
 
 ---
 
-## 🚀 Uso
+## Uso
 
 ```bash
 ./huffman_compressor
@@ -98,7 +98,7 @@ Archivo restaurado como: texto_decoded.txt
 
 ---
 
-## 📊 Resultados
+## Resultados
 
 Pruebas realizadas con archivos de texto de distinto contenido:
 
@@ -113,14 +113,14 @@ La descompresión es exacta (verificada con hash MD5 en todos los casos).
 
 ---
 
-## ⭐ Bonus — Rama `guifrommain`
+## Bonus — Rama `guifrommain`
 
 La rama [`guifrommain`](https://github.com/JeroEcheverry/Compresor-De-Archivos-Huffman/tree/guifrommain) contiene un experimento de **interfaz gráfica** para el compresor.
 
-> ⚠️ Esta rama **no forma parte de la entrega oficial**. Durante su desarrollo se utilizó asistencia de IA para generar el código de la GUI, lo que introdujo varias librerías adicionales (como Qt) que no están presentes en el proyecto principal. La mencionamos como funcionalidad extra, pero la entrega principal es la versión por consola de la rama `main`, que compila con un solo comando y no tiene dependencias externas.
+> Esta rama **no forma parte de la entrega oficial**. Durante su desarrollo se utilizó asistencia de IA para generar el código de la GUI, lo que introdujo varias librerías adicionales (como Qt) que no están presentes en el proyecto principal. La mencionamos como funcionalidad extra, pero la entrega principal es la versión por consola de la rama `main`, que compila con un solo comando y no tiene dependencias externas.
 
 ---
 
-## 📄 Licencia
+## Licencia
 
 Proyecto académico — Universidad EAFIT 2026.
