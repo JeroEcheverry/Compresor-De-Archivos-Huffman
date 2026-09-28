@@ -50,7 +50,7 @@ huffman/
 
 ---
 
-## ⚙️ Compilación
+## Compilación
 
 No se requiere ninguna librería externa. Solo un compilador compatible con **C++17**.
 
